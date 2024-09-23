@@ -7,7 +7,6 @@
   align-items: center;
   justify-content: space-between;
   background-color: #fdf2e9;
-  background-color: red;
 
   /* Because we want header to be sticky later */
   /* If we didnt want sticky, could use padding */
