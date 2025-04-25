@@ -1,2 +1,6 @@
 # Omnifood
-Personal project - website for food delivery company - https://omnifood-ilja.netlify.app/
+Website for food delivery company
+
+Created using vanilla HTML and CSS as part of a HTML course.
+
+https://omnifood-ilja.netlify.app/
